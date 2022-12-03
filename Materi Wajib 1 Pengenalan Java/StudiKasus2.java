@@ -3,6 +3,7 @@ public class StudiKasus2 {
         int lahir = 1994;
         int umur = 20;
 
+        //program menghitung umur
         int tahunsekarang = lahir + umur;
 
         System.out.println("Tahun Sekarang : " + tahunsekarang);
