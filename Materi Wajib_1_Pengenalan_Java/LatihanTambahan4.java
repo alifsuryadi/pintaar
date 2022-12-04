@@ -1,4 +1,4 @@
-public class LatihanTambahn4 {
+public class LatihanTambahan4 {
     
         public static void main(String[] args){
             int n = 20;
