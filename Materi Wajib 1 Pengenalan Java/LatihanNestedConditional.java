@@ -2,7 +2,7 @@ public class LatihanNestedConditional {
     
     public static void main(String[] args){
         int sks = 121;
-        boolean pernahcuti = true;
+        boolean pernahcuti = false;
 
         if (pernahcuti){
             if (sks < 120 ){
