@@ -1,4 +1,4 @@
-public class LaihanConditionalLogic2 {
+public class LatihanConditionalLogic2 {
     
     public static void main(String[] args){
         int day = 2;
