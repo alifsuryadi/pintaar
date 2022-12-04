@@ -4,11 +4,9 @@ public class StudiKasus6 {
         String kalimat1 = "budi";
         String kalimat2 = "BUDI";
         
-        if(kalimat1.equals(kalimat2)){
-            System.out.println(true);
-        }
-        else{
-            System.out.println(false);
+        //IgnoreCase = menjadikan sama / true
+        if(kalimat1.equalsIgnoreCase(kalimat2)){
+            System.out.println("Kalimat 1 dan Kalimat 2 sudah sama");
         }
     }
 }
