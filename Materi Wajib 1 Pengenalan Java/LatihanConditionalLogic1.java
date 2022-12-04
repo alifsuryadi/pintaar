@@ -1,4 +1,4 @@
-public class LatihanConditionalLogic {
+public class LatihanConditionalLogic1 {
     
     public static void main(String[] args){
         int angka1 = 10;
