@@ -1,3 +1,5 @@
+package Materi_Wajib_1_Pengenalan_Java;
+
 public class LatihanTambahan4 {
     
         public static void main(String[] args){

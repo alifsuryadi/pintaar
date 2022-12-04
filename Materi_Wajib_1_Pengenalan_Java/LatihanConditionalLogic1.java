@@ -1,3 +1,5 @@
+package Materi_Wajib_1_Pengenalan_Java;
+
 public class LatihanConditionalLogic1 {
     
     public static void main(String[] args){
