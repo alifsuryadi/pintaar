@@ -1,3 +1,4 @@
+package Materi_Wajib_1_Pengenalan_Java;
 public class LatihanVariable1 {
     public static void main(String[] args) {
      int a, b, temp;

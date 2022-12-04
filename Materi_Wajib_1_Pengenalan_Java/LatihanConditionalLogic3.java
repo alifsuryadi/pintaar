@@ -1,3 +1,5 @@
+package Materi_Wajib_1_Pengenalan_Java;
+
 public class LatihanConditionalLogic3 {
     
     //Program yang bisa membaca bilangan adalah satuan, puluhan atau ribuan

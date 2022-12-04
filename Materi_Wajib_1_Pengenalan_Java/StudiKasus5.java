@@ -1,3 +1,4 @@
+package Materi_Wajib_1_Pengenalan_Java;
 public class StudiKasus5 {
     public static void main(String[]args){
         int a = 5;
